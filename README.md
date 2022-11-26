@@ -8,3 +8,25 @@ You can also check if you can afford items, and if you can, add them to your vir
 - Transaction History
 
 This tool uses Python 3.11 and will not work if you haven't installed it on your system. If you haven't yet installed it, you can do so [here](https://www.python.org/downloads)!
+
+
+## Instructions
+
+To use the Dabloons Bank, you must first install Python. There is a link above. Once that's done, simply hit that big green Code dropdown and click "Download ZIP".
+
+Open where you've installed it and extract the ZIP file by right clicking and pressing the button that says something along the lines of "Extract here". That done, go into the folder it's created and double-click the `main.py` file to run the app.
+
+If you've done everything correctly, you should have a little terminal window saying something like the following:
+
+```
+--------------------
+ Welcome to the Dabloons Bank!
+ Select an option below to update your balance:
+  1 - I've been given Dabloons
+  2 - I've been robbed
+  3 - I want to check my transactions
+  4 - I've made a purchase
+ You have 0 Dabloons
+--------------------
+```
+Simply type the number corresponding to the action you wish to take. It'll then save your changes, so the next time you enter the bank you will have all of your Dabloons, items, transactions etc. still available to you.
