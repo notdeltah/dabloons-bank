@@ -7,4 +7,4 @@ You can also check if you can afford items, and if you can, add them to your vir
 - Virtual Inventory
 - Transaction History
 
-This tool uses Python 3.11. If you haven't yet installed it, you can do so [here](https://www.python.org/downloads).
+This tool uses Python 3.11 and will not work if you haven't installed it on your system. If you haven't yet installed it, you can do so [here](https://www.python.org/downloads)!
