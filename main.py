@@ -111,3 +111,5 @@ elif response.strip() == "4":
         add_history(f"Purchased {product} for {price} Dabloons")
         purchase_item(product, price)
         print(f"You're now the proud owner of a(n) {product}!")
+
+input("\nPress Enter to exit.")
