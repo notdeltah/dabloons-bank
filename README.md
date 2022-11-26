@@ -30,3 +30,5 @@ If you've done everything correctly, you should have a little terminal window sa
 --------------------
 ```
 Simply type the number corresponding to the action you wish to take. It'll then save your changes, so the next time you enter the bank you will have all of your Dabloons, items, transactions etc. still available to you.
+
+### If DB doesn't open or crashes, please report it [here](https://github.com/notdeltah/dabloons-bank/issues/new). Thanks! :)
